@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIvsEua+Bjk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dives\\source\\repos\\Program\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dives\\.nuget\\packages\\system.windows.extensions\\9.0.4\\system.windows.extensions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
